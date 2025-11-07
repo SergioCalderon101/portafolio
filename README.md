@@ -7,7 +7,7 @@ Portafolio personal de Sergio Calderon, Ingeniero en Sistemas Computacionales.
 Este es mi portafolio personal donde muestro mis habilidades, proyectos y experiencia como desarrollador. El sitio está construido con HTML, CSS y JavaScript vanilla, y utiliza Bootstrap para el diseño responsivo.
 
 ## Estructura del Proyecto
-elimina todo el 
+ 
 ```
 portafolio/
 ├── assets/
