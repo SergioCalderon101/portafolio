@@ -1488,3 +1488,28 @@ footer .credits a {
 .title-box-2 .text-white {
   color: #ffffff !important;
 }
+
+/* Estilos para los iconos de herramientas */
+.tool-icon-circle {
+  width: 120px;
+  height: 120px;
+  background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 1rem;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+}
+
+.tool-icon-circle:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.3);
+  background: linear-gradient(135deg, #34495e 0%, #2c3e50 100%);
+}
+
+.tool-icon-circle i {
+  font-size: 60px;
+  color: #ecf0f1;
+}
