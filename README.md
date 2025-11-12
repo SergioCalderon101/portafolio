@@ -41,7 +41,7 @@ portafolio/
 
 ## Contacto
 
-Sergio Calderon - Ingeniero en Sistemas Computacionales
+Sergio Calderon - Ingeniero en Sistemas Computacionales ~ https://www.linkedin.com/in/sergio-calderon-sanpedro/
 ---
 
 © 2025 Sergio Calderon. Todos los derechos reservados.
